@@ -1,0 +1,2 @@
+# listinpython
+list methods functions
