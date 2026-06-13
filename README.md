@@ -13,7 +13,7 @@ operations on the List:
 1. Create a List 
 2. Access List 
 3. Update List 
-  4. Delete List 
+4. Delete List 
 
 """
 list=[10,20,30,40]
